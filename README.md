@@ -35,5 +35,5 @@ A well-qualified Frontend Developer is familiar with a wide range of programming
 
 <a href="mailto:muhammadmubashir674@gmail.com" target="_blank" title="muhammadmubashir674@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/M-Mubashir674/" target="_blank" title="LinkedIn" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
-<a href="https://www.fiverr.com/users/mmmubashir" title="M.Mubashir" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg" alt="Fiverr" width="25" height="30"/></a>
+<a href="https://www.fiverr.com/users/mmmubashir" title="M.Mubashir" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg" alt="Fiverr" width="60" height="60"/></a>
 <a href="https://wa.me/923356164540?text=Hi!" title="M.Mubashir" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Whatsapp" width="30" height="30"/></a>
