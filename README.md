@@ -1,6 +1,6 @@
 ## Hello👋 I'm M.Mubashir👨‍💻
 
-A well-qualified Frontend Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease.Additionally, I bring valuable experience in developing Chrome extensions. Collaborative team player with excellent technical abilities offering 2 years of related experience.
+A well-qualified Frontend Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease.Additionally, I bring valuable experience in developing Chrome extensions. Collaborative team player with excellent technical abilities offering 3 years of related experience.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/M-Mubashir674/)
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammad-mubashir674/)
